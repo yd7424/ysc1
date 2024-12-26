@@ -1,12 +1,8 @@
-//以下接口全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//测试时间：2024-12-20
+//以下接口全部出自网络和大佬资源，如有冒犯请联系删除。
+//[所有内容仅供学习使用，请勿用于违法用途]
 //注意：部分线路可能无法使用
 //影视仓下载：https://pan.quark.cn/s/61d324167c07
-//【直播接口】
-//【长青直播源】http://yuan.haitangw.net/ZB/
-//【安卓哥直播源】https://安卓哥.com/ZB
-//【盒子迷直播源】https://盒子迷.top/ZB
-//【开心直播源】：http://kxrj.site:55/lib/kx2024.txt
+//【直播接口】推荐【长青直播源】【安卓哥直播源】【盒子迷直播源】【开心直播源】，选择线路自动配置
 {
     "urls":
      [
@@ -55,6 +51,10 @@
             "name": "🚀天天开心"
         },
         {
+            "url": "https://www.yingm.cc/dm/dm.json",
+            "name": "🚀动漫城接口"
+        },
+        {
             "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
@@ -73,6 +73,10 @@
         {
             "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长线路"
+        },
+        {
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "🚀HG接口"
         },
         {
             "url": "https://tvbox.cainisi.cf",
@@ -277,6 +281,10 @@
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里专线"
+        },
+        {
+            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "🚀业余线路"
         }
     ]
 }
