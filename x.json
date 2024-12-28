@@ -35,7 +35,7 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
             "name": "🚀One线路"
-        ,
+        },
         {
             "url": "http://box.nianxin.top/tvbox/nx.json",
             "name": "🚀念心单仓"
@@ -60,7 +60,7 @@
             "url": "https://www.yingm.cc/dm/dm.json",
             "name": "🚀动漫城接口"
         },
-		{
+	{
             "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长线路"
         },
@@ -92,14 +92,14 @@
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
         },
-		{
-			"url": "https://weixine.net/ysc.json",
-			"name": "🚀运输车仓库（主线）"
-		},
-		{
-			"url": "https://cf.weixine.net/ysc.json",
-			"name": "🚀运输车仓库（加速）"
-		},
+	{
+	    "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车仓库（主线）"
+	},
+	{
+	    "url": "https://cf.weixine.net/ysc.json",
+	    "name": "🚀运输车仓库（加速）"
+	},
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🐹潇洒线路"
@@ -144,42 +144,42 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云js"
         },
-		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-			"name": "🚀高天流云XYQ"
-		},
+	{
+	    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+	    "name": "🚀高天流云XYQ"
+	},
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "💎不良帅线路"
         },
-		{
-			"url": "https://raw.gitmirror.com/159ecn/vip/main/4k/t.json",
-			"name": "🚀4k视界"
-		}
-		{
-			"url": "https://raw.gitmirror.com/159ecn/vip/main/ysc/t.json",
-			"name": "🚀大件运输"
-		},
-		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
-			"name": "🚀香佬线路"
-		},
-		{
-			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-			"name": "🚀PG one"
-		},
-		{
-			"url": "https://raw.gitmirror.com/159ecn/vip/main/sx/t.json",
-			"name": "🚀神仙影视备用"
-		},
-		{
-			"url": "https://raw.liucn.cc/box/m.json",
-			"name": "🚀老刘备仓库"
-		},
-		{
-			"url": "http://home.jundie.top:81/top98.json",
-			"name": "🚀俊佬仓库"
-		},
+	{
+	    "url": "https://raw.gitmirror.com/159ecn/vip/main/4k/t.json",
+	    "name": "🚀4k视界"
+	},
+	{
+	    "url": "https://raw.gitmirror.com/159ecn/vip/main/ysc/t.json",
+	    "name": "🚀大件运输"
+	},
+	{
+	    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+	    "name": "🚀香佬线路"
+	},
+	{
+	    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+	    "name": "🚀PG one"
+	},
+	{
+	    "url": "https://raw.gitmirror.com/159ecn/vip/main/sx/t.json",
+	    "name": "🚀神仙影视备用"
+	},
+	{
+	    "url": "https://raw.liucn.cc/box/m.json",
+	    "name": "🚀老刘备仓库"
+	},
+	{
+	    "url": "http://home.jundie.top:81/top98.json",
+	    "name": "🚀俊佬仓库"
+	},
         {
             "url": "https://www.lianyingtv.com/fast/fast",
             "name": "🏄️恋影线路"
@@ -195,9 +195,9 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🐹月光宝盒"
-        }
-		//以下仓库可能无法使用
-		{
+        },
+	//以下仓库可能无法使用
+	{
             "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
