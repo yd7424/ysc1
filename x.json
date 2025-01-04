@@ -209,6 +209,10 @@
             "url": "http://tv.laohu.cool/tvbox.json",
             "name": "🚀老虎线路"
         },
+	{
+            "url": "https://tv.菜妮丝.top",
+            "name": "🚀菜妮丝线路"
+        },
 	//以下仓库可能无法使用
 	{
             "url": "https://yydsys.top/duo",
@@ -225,10 +229,6 @@
         {
             "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝线路"
         },
         {
             "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
