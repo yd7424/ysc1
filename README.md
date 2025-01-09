@@ -11,8 +11,10 @@
 * https://github.moeyy.xyz/
 * https://gh.api.99988866.xyz/
 * https://ghproxy.net/
+* https://ghproxy.cn/
 * https://github.akams.cn/
 * https://iacc.eu.org/
+* https://gh.sixyin.com/
 * ...
 
 ### 影视仓空壳下载
