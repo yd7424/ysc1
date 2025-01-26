@@ -9,7 +9,7 @@
 ### 切换线路时，如遇到错误请在APP内清除缓存再尝试切换
 
 ## github文件加速
-### 文件地址前添加加速地址访问
+### 文件地址前添加加速地址访问（个别加速可能失效）
 * https://github.moeyy.xyz/
 * https://gh.api.99988866.xyz/
 * https://ghproxy.net/
@@ -17,6 +17,7 @@
 * https://github.akams.cn/
 * https://iacc.eu.org/
 * https://gh.sixyin.com/
+* http://gh.llkk.cc/
 * ...
 
 ## 影视仓空壳下载
