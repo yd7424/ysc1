@@ -107,8 +107,5 @@
   {"v":"label/hot_day/page/","n":"日榜"},  
   {"v":"label/hot_week/page/","n":"周榜"},  
   {"v":"label/hot_month/page/","n":"月榜"},  
-  {"v":"label/hot/page/","n":"总榜"}]}]  
-  
-  
-  }  
-  }
+  {"v":"label/hot/page/","n":"总榜"}
+]}
